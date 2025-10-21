@@ -16,3 +16,7 @@ const info = {
     "age":23 ,
 }
 
+const info2 = {
+    "name":"taffi waghe" ,
+    "age":7 ,
+}
