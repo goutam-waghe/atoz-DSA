@@ -11,4 +11,8 @@ console.log("patterb")
 
 pattern2(3)
 pattern(10)
+const info = {
+    "name":"goutam waghe" ,
+    "age":23 ,
+}
 
